@@ -1,26 +1,24 @@
 
-# Curso Ciencia de Datos
 
-Curso de Ciencia de datos desarrollado en un cuaderno de notas de Jupyter. Usamos las bibliotecas de Python para presentar casos  concretos de ductos en las Ciencia de Datos en el área de la salud.
+# El cáncer de Mama
 
-## Introducción
-En los últimos años la Ciencia de datos ha adquirido una relevancia muy importante en el mundo de la salud. Por lo que es deseable que los organismos  públicos y privados se encuentren al tanto de los avances  en deteccion y prevencion de enfermedades usando los métodos de la Ciencia de Datos.
+Ducto de Ciencia de datos para el __[Cáncer de mama](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)__.  Desarrollado en un cuaderno de notas de Jupyter
+
+# Requisitos
+
+Se asume cierta familiaridad  con el lenguaje de programación Python. Algunas cosas se introducirán directamente en el código y solo se comentarán brevemente.
+
+### Basado en:   
+
+ *[Building a Simple Machine Learning Model on Breast Cancer Data](https://towardsdatascience.com/building-a-simple-machine-learning-model-on-breast-cancer-data-eca4b3b99fa3)*
+
+*[Intro to Keras with breast cancer data[ANN]](https://www.kaggle.com/thebrownviking20/intro-to-keras-with-breast-cancer-data-ann)*
 
 
-## Estructura del Curso 
-El curso esta divido en cuatro lecciones seriadas. 
-
-![](https://weasysolutions.github.io/data-science-course/images/Ciencia-Datos.png)
-
-## Lecciones del Curso
-
-1) [La Estructura de Python](https://weasysolutions.github.io/data-science-course/presentation/lesson_1.slides.html#/)  
-
-2) [Los Conjuntos de Datos](https://weasysolutions.github.io/data-science-course/presentation/lesson_2.slides.html#/) 
-
-3) [Las Rutinas del Aprendizaje de Datos](https://weasysolutions.github.io/data-science-course/presentation/lesson_3.slides.html#/) 
-
-3) [Manejo Gigante de Datos: Pyspark](https://weasysolutions.github.io/data-science-course/presentation/lesson_4.slides.html#/) 
 
 ### Creditos
+ #####  Elaboración: [Enrique Jiménez](https://github.com/kikejimenez)
 [![N|Equipo](https://weasysolutions.github.io/data-science-course/images/weasysolutions.png)](http://weasysolutions.com)
+
+
+
